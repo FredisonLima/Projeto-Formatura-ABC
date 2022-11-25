@@ -257,7 +257,7 @@ main{
 /*--sobre-mim-fim---------------------------------*/
 
 .section2{
-  background-image: url('/imagem/fundo-rosa.jpeg');
+  background:#E6B0AA;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
