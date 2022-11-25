@@ -47,7 +47,7 @@ header img{
       height: 55px;
       width: 55px;
       top: 5px;
-      left: 58%;
+      left: 60%;
       transform: rotate(10deg);
 }
 
@@ -70,7 +70,7 @@ nav{
 nav > a{
     color: #fff;
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 10px 12px;
     margin-left: 10px;
     font-weight: bolder;
     font-size: 18px;
