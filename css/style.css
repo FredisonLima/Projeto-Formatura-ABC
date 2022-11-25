@@ -131,6 +131,7 @@ main{
   height: 30vh;
   overflow: hidden;
   font-family: 'Montserrat', sans-serif;
+  box-shadow: 5px 10px 18px #922B21;
 }
 
 .hero__title {
